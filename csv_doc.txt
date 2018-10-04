@@ -1,0 +1,34 @@
+csv file details:
+
+Loan Status:
+Charged Off <- 1
+Payed <- 0
+
+Home Ownership:
+Home Mortgage , HaveMortgage <- 0
+Rent <- 1
+Own Home <- 2
+
+Purpose:
+Home Improvements <- 0
+Debt Consolidation <- 1
+Buy House <- 2
+Buy a car <- 3
+Business Loan <- 4
+Medical Bills <- 5
+Other <- 6
+Vacation , Take a trip<- 7
+major_purchase <- 8
+small_business <- 9
+renewable_energy <- 10
+wedding <- 11
+moving <- 12
+Educatiol Expenses <- 13
+0s <- 14
+
+Years in current job
+<1 <- 1
+10+ <- 10
+
+
+
